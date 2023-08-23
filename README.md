@@ -1,7 +1,7 @@
 # lfgan's games
 
 a fun little website i made in my freetime
-
+press the google logo then type "lfgan"
 
 ## Contributing
 
