@@ -11,6 +11,6 @@ You can contribute by creating a pull request and adding games or donating a web
 
 Here is a step by step guide on how to donate a website.
 
-1. Create a hosting account on [infinityfree.com](https://www.infinityfree.com/)
+1. Create a hosting account on [infinityfree.com](https://www.infinityfree.com/) ![1st step](https://i.imgur.com/lpDVRvL.png)
 2. Create a subaccount inside of the [infinityfree dashboard](https://dash.infinityfree.com/accounts)
 3. Link your domain by
