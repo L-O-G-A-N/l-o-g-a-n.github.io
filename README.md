@@ -34,7 +34,7 @@ Here is a step by step guide on how to donate a website with photos.
 8. then go to [jsfuck.com](https://jsfuck.com/) then turn off eval source and paste the code you got from the last step into the text box then press encode.
 
      ![step 8](https://i.imgur.com/8XT8NSU.png)
-9. Take the code generated which should look something like the photo below and replace the string that looks alike that has a few empty lines inbetween (SEE PHOTO)
+9. Take the code generated which should look something like the photo below and replace the string that looks alike that has a few empty lines inbetween (SEE PHOTO). ALSO MAKE SURE THAT THERE IS A ; AT THE END OR IT WONT WORK!
 
      ![step 9](https://i.imgur.com/PdETzoN.png)
 
