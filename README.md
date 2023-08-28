@@ -12,6 +12,8 @@ You can contribute by creating a pull request and adding games or donating a web
 
 Here is a step by step guide on how to donate a website with photos.
 
+DO NOT USE THE BELOW STEPS AS INFINITY FREE ISNT GOOD ANYMORE! FOR THE TIME BEING I DO NOT HAVE A METHOD TO HOST MY WEBSITE OTHER THAN GITHUB!!! I WILL UPDATE THE GUIDE WHEN I FIND A METHOD!!!
+
 1. Create a hosting account on [infinityfree.com](https://www.infinityfree.com/)
 
    ![1st step](https://i.imgur.com/lpDVRvL.png)
