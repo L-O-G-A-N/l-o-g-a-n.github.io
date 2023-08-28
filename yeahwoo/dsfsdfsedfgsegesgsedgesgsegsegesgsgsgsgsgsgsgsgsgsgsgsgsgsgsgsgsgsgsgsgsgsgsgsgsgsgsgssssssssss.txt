@@ -1,0 +1,264 @@
+
+    <a href="./bloonstd.html" class="button">
+  <figure><img width="100" height="100" src="./bloonstd/splash.png"></figure>
+  <div class="text">
+    1v1.lol (HARDCODED)
+  </div>
+</a>
+
+
+    <a href="./bloonstd2.html" class="button">
+  <figure><img width="100" height="100" src="./bloonstd2/splash.png"></figure>
+  <div class="text">
+    1v1.lol (HARDCODED)
+  </div>
+</a>
+
+
+    <a href="./bloxors.html" class="button">
+  <figure><img width="100" height="100" src="./bloxors/splash.png"></figure>
+  <div class="text">
+    1v1.lol (HARDCODED)
+  </div>
+</a>
+
+
+    <a href="./bntts.html" class="button">
+  <figure><img width="100" height="100" src="./bntts/splash.png"></figure>
+  <div class="text">
+    1v1.lol (HARDCODED)
+  </div>
+</a>
+
+
+    <a href="./bobtherobber2.html" class="button">
+  <figure><img width="100" height="100" src="./bobtherobber2/splash.png"></figure>
+  <div class="text">
+    1v1.lol (HARDCODED)
+  </div>
+</a>
+
+
+    <a href="./bonkio.html" class="button">
+  <figure><img width="100" height="100" src="./bonkio/splash.png"></figure>
+  <div class="text">
+    1v1.lol (HARDCODED)
+  </div>
+</a>
+
+
+    <a href="./boxhead2play.html" class="button">
+  <figure><img width="100" height="100" src="./boxhead2play/splash.png"></figure>
+  <div class="text">
+    1v1.lol (HARDCODED)
+  </div>
+</a>
+
+
+    <a href="./boxing-random.html" class="button">
+  <figure><img width="100" height="100" src="./boxing-random/splash.png"></figure>
+  <div class="text">
+    1v1.lol (HARDCODED)
+  </div>
+</a>
+
+
+    <a href="./breakingthebank.html" class="button">
+  <figure><img width="100" height="100" src="./breakingthebank/splash.png"></figure>
+  <div class="text">
+    1v1.lol (HARDCODED)
+  </div>
+</a>
+
+
+    <a href="./btd4.html" class="button">
+  <figure><img width="100" height="100" src="./btd4/splash.png"></figure>
+  <div class="text">
+    1v1.lol (HARDCODED)
+  </div>
+</a>
+
+
+    <a href="./btd5.html" class="button">
+  <figure><img width="100" height="100" src="./btd5/splash.png"></figure>
+  <div class="text">
+    1v1.lol (HARDCODED)
+  </div>
+</a>
+
+
+    <a href="./btts.html" class="button">
+  <figure><img width="100" height="100" src="./btts/splash.png"></figure>
+  <div class="text">
+    1v1.lol (HARDCODED)
+  </div>
+</a>
+
+
+    <a href="./burger-and-frights.html" class="button">
+  <figure><img width="100" height="100" src="./burger-and-frights/splash.png"></figure>
+  <div class="text">
+    1v1.lol (HARDCODED)
+  </div>
+</a>
+
+
+    <a href="./bus and subway.html" class="button">
+  <figure><img width="100" height="100" src="./bus and subway/splash.png"></figure>
+  <div class="text">
+    1v1.lol (HARDCODED)
+  </div>
+</a>
+
+
+    <a href="./cannon-basketball-4.html" class="button">
+  <figure><img width="100" height="100" src="./cannon-basketball-4/splash.png"></figure>
+  <div class="text">
+    1v1.lol (HARDCODED)
+  </div>
+</a>
+
+
+    <a href="./canyondefense.html" class="button">
+  <figure><img width="100" height="100" src="./canyondefense/splash.png"></figure>
+  <div class="text">
+    1v1.lol (HARDCODED)
+  </div>
+</a>
+
+
+    <a href="./cars-simulator.html" class="button">
+  <figure><img width="100" height="100" src="./cars-simulator/splash.png"></figure>
+  <div class="text">
+    1v1.lol (HARDCODED)
+  </div>
+</a>
+
+
+    <a href="./cell-machine.html" class="button">
+  <figure><img width="100" height="100" src="./cell-machine/splash.png"></figure>
+  <div class="text">
+    1v1.lol (HARDCODED)
+  </div>
+</a>
+
+
+    <a href="./champion-island.html" class="button">
+  <figure><img width="100" height="100" src="./champion-island/splash.png"></figure>
+  <div class="text">
+    1v1.lol (HARDCODED)
+  </div>
+</a>
+
+
+    <a href="./championarcher.html" class="button">
+  <figure><img width="100" height="100" src="./championarcher/splash.png"></figure>
+  <div class="text">
+    1v1.lol (HARDCODED)
+  </div>
+</a>
+
+
+    <a href="./checkers.html" class="button">
+  <figure><img width="100" height="100" src="./checkers/splash.png"></figure>
+  <div class="text">
+    1v1.lol (HARDCODED)
+  </div>
+</a>
+
+
+    <a href="./chess.html" class="button">
+  <figure><img width="100" height="100" src="./chess/splash.png"></figure>
+  <div class="text">
+    1v1.lol (HARDCODED)
+  </div>
+</a>
+
+
+    <a href="./chill-radio.html" class="button">
+  <figure><img width="100" height="100" src="./chill-radio/splash.png"></figure>
+  <div class="text">
+    1v1.lol (HARDCODED)
+  </div>
+</a>
+
+
+    <a href="./chrome-dino.html" class="button">
+  <figure><img width="100" height="100" src="./chrome-dino/splash.png"></figure>
+  <div class="text">
+    1v1.lol (HARDCODED)
+  </div>
+</a>
+
+
+    <a href="./circlo.html" class="button">
+  <figure><img width="100" height="100" src="./circlo/splash.png"></figure>
+  <div class="text">
+    1v1.lol (HARDCODED)
+  </div>
+</a>
+
+
+    <a href="./classicube.html" class="button">
+  <figure><img width="100" height="100" src="./classicube/splash.png"></figure>
+  <div class="text">
+    1v1.lol (HARDCODED)
+  </div>
+</a>
+
+
+    <a href="./cluster-rush.html" class="button">
+  <figure><img width="100" height="100" src="./cluster-rush/splash.png"></figure>
+  <div class="text">
+    1v1.lol (HARDCODED)
+  </div>
+</a>
+
+
+    <a href="./CMM Client.html" class="button">
+  <figure><img width="100" height="100" src="./CMM Client/splash.png"></figure>
+  <div class="text">
+    1v1.lol (HARDCODED)
+  </div>
+</a>
+
+
+    <a href="./cnpingpong.html" class="button">
+  <figure><img width="100" height="100" src="./cnpingpong/splash.png"></figure>
+  <div class="text">
+    1v1.lol (HARDCODED)
+  </div>
+</a>
+
+
+    <a href="./connect3.html" class="button">
+  <figure><img width="100" height="100" src="./connect3/splash.png"></figure>
+  <div class="text">
+    1v1.lol (HARDCODED)
+  </div>
+</a>
+
+
+    <a href="./dsfsdfsedfgsegesgsedgesgsegsegesgsgsgsgsgsgsgsgsgsgsgsgsgsgsgsgsgsgsgsgsgsgsgsgsgsgsgssssssssss.txt.html" class="button">
+  <figure><img width="100" height="100" src="./dsfsdfsedfgsegesgsedgesgsegsegesgsgsgsgsgsgsgsgsgsgsgsgsgsgsgsgsgsgsgsgsgsgsgsgsgsgsgssssssssss.txt/splash.png"></figure>
+  <div class="text">
+    1v1.lol (HARDCODED)
+  </div>
+</a>
+
+
+    <a href="./test.py.html" class="button">
+  <figure><img width="100" height="100" src="./test.py/splash.png"></figure>
+  <div class="text">
+    1v1.lol (HARDCODED)
+  </div>
+</a>
+
+
+    <a href="./test2.py.html" class="button">
+  <figure><img width="100" height="100" src="./test2.py/splash.png"></figure>
+  <div class="text">
+    1v1.lol (HARDCODED)
+  </div>
+</a>
+
