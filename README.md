@@ -22,7 +22,9 @@ Here is a step by step guide on how to donate a website with photos.
 3. Link your domain or create a subdomain by either pressing on subdomain or custom domain, then follow the directions that the website gives you.
 
    ![step 3](https://i.imgur.com/g6IiPKi.png)
-4. after your account is setup create a ssl certficate under the "Free SSL Certificates" tab. then follow the directions from this forum: [directions](https://forum.infinityfree.net/t/how-to-get-free-ssl-https-on-infinityfree/49323)
+4. (OPTIONAL) after your account is setup create a ssl certficate under the "Free SSL Certificates" tab. then follow the directions from this forum: [directions](https://forum.infinityfree.net/t/how-to-get-free-ssl-https-on-infinityfree/49323)
+
+if you do not do the above step then delete the .htaccess file
 
    ![step 4](https://i.imgur.com/ykMuoYY.png)
 5. then upload the files from this github to the file manager htdocs under the account.
