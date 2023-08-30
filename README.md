@@ -41,5 +41,15 @@ Here is a step by step guide on how to donate a website with photos.
 
     ![step 10](https://i.imgur.com/p1Ml7i8.png)
 
-10. (OPTIONAL) Follow these steps to activate cloudflare on your new site! [https://forum.infinityfree.net/t/a-full-guide-to-cloudflare/44451](https://forum.infinityfree.net/t/a-full-guide-to-cloudflare/44451)
-11. [create a ticket inside of my discord server and i will add it to the website list](https://discord.gg/qkWXdy2uue)
+
+11. (OPTIONAL) Follow these steps to activate cloudflare on your new site! [https://forum.infinityfree.net/t/a-full-guide-to-cloudflare/44451](https://forum.infinityfree.net/t/a-full-guide-to-cloudflare/44451)
+    
+13. [create a ticket inside of my discord server and i will add it to the website list](https://discord.gg/qkWXdy2uue)
+
+
+
+### Banned Games
+
+Here is a list of games that are not allowed on the website, and why not
+
+- Breaking the Bank: InfinityFree does not allow content related to banks
