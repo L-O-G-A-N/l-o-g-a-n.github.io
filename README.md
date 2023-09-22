@@ -12,8 +12,6 @@ You can contribute by creating a pull request and adding games or donating a web
 
 Here is a step by step guide on how to donate a website with photos.
 
-Skip steps 6-9!!!
-
 
 1. Create a hosting account on [infinityfree.com](https://www.infinityfree.com/)
 
@@ -30,16 +28,16 @@ Skip steps 6-9!!!
 5. then upload the files from this github to the file manager htdocs under the account.
 
    ![step 5](https://i.imgur.com/MBVvZL2.png)
-6. Configure the index.html file by first getting your link which is https://example.com/yeahwoo i will refer to this as "Your Link"
+6. Enter your domain in the variable in the index.html file
 
 
-7. Then go to another website and then open console and run this command: console.log(btoa("Your Link")) and copy the code that comes out of it.
+~~7. Then go to another website and then open console and run this command: console.log(btoa("Your Link")) and copy the code that comes out of it.~~
 
      ![step 7](https://i.imgur.com/t54bFhJ.png)
-8. then go to [jsfuck.com](https://jsfuck.com/) then turn off eval source and paste the code you got from the last step into the text box then press encode.
+~~8. then go to [jsfuck.com](https://jsfuck.com/) then turn off eval source and paste the code you got from the last step into the text box then press encode.~~
 
      ![step 8](https://i.imgur.com/8XT8NSU.png)
-9. Take the code generated which should look something like the photo below and replace the string that looks alike that has a few empty lines inbetween (SEE PHOTO). ALSO MAKE SURE THAT THERE IS A ; AT THE END OR IT WONT WORK!
+~~9. Take the code generated which should look something like the photo below and replace the string that looks alike that has a few empty lines inbetween (SEE PHOTO). ALSO MAKE SURE THAT THERE IS A ; AT THE END OR IT WONT WORK!~~
 
      ![step 9](https://i.imgur.com/PdETzoN.png)
 
